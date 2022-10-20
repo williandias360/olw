@@ -9,6 +9,7 @@
         "elasticsearch/elasticsearch": "^8.4",
         "guzzlehttp/guzzle": "^7.2",
         "inertiajs/inertia-laravel": "^0.6.3",
+        "jzonta/faker-restaurant": "^2.0",
         "laravel/framework": "^9.19",
         "laravel/sanctum": "^2.8",
         "laravel/tinker": "^2.7",
